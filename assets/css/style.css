@@ -1,7 +1,13 @@
-header {
+header, footer {
     background-color: #000;
 }
 
 p {
     text-align: justify;
+}
+
+img.whats {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
